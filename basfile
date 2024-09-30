@@ -1,3 +1,5 @@
 fjkbnjf
 hiiiiiiiiiii
 nii i am from gitbas
+kubeadm join 192.168.211.146:6443 --token hsboan.x8fzynrhta62h5a4 \
+	--discovery-token-ca-cert-hash sha256:bab5d724f8488dfaf3dcaa23259bd206bdcedba78e93253ab122beab09770831
